@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543359600687",
+    "project_id": "digimind-24b49",
+    "storage_bucket": "digimind-24b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543359600687:android:c640d8cc02f5f12b475eda",
+        "android_client_info": {
+          "package_name": "bojorquez.brenda.digimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543359600687-73tcilnbugn6skcnobahjnh30leju0e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW1ITDPgpAQs7P57xbUdDNYMtUibn4hCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543359600687-73tcilnbugn6skcnobahjnh30leju0e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
